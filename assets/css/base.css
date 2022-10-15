@@ -1,0 +1,26 @@
+:root {
+    --primary-color:  #CC0000;
+    --text-color: #333;
+    --sub-color: #ffe7e7;
+    --black-color: #3a2222;
+  }
+  
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+  }
+  html {
+    box-sizing: border-box; 
+    font-family: "Poppins", sans-serif;
+    font-size: 62.5%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  
+  body {
+    background-image: linear-gradient( 45deg, rgb(65, 88, 208) 0%, rgb(200, 80, 192) 50%, rgb(255, 204, 112) 100% );
+  }
