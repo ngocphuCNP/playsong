@@ -43,7 +43,7 @@ const app = {
         { 
             name: 'Thanh Xuân',
             author: 'Da LAB',
-            path: '../assets/css/music/song2.mp3',
+            path: './assets/css/music/song2.mp3',
             image: './assets/css/img/img2.jpg',
         },
         { 
